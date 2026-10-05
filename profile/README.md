@@ -1,67 +1,86 @@
 # Turi's Welding & Fabricating
 
-**Custom welding and fabrication in Burlington, Ontario — family-owned since 1982.**
+## This is Turi's space
 
-Turi's has spent more than four decades turning drawings, damaged parts, sketches and ideas into real metalwork for customers in Burlington, Hamilton and the surrounding region.
+This GitHub organization is the durable technical and operating home for **Turi's Welding & Fabricating**.
 
-Our in-house capabilities include **laser cutting, plasma cutting, rolling, shearing, bending, welding and custom fabrication**.
+If you are Attila, the simplest way to think about it is:
 
-> **If you can dream it, we can make it.**
+> **This is the shop's long-term memory, map and technical filing cabinet.**
 
-## Why this GitHub organization exists
+You should not need to become a GitHub operator to use it. The point is for the systems and Companions around Turi's to know where durable company knowledge lives, where current evidence came from, what changed, and what still needs a human decision.
 
-A working fabrication shop contains more knowledge than any one drawing, database or machine.
+Turi's is still the real shop: people, customers, drawings, machines, material, judgement, relationships and work. This organization exists to help that real shop remember itself and evolve without throwing away what already works.
 
-There are jobs and customer histories, CAD files, machine-specific rituals, material knowledge, operator shortcuts, maintenance history, old controllers, photographs, receipts, recovery paths and the things experienced people simply know.
+## The family and the shop
 
-This organization is Turi's durable technical and operating home: a place to make that knowledge more legible, recoverable and useful **without replacing the people, machines and practices that already make the shop work**.
+Turi's began as a family business built by **John and Elizabeth Turi**. John opened the shop in 1982, and the knowledge accumulated since then is part of the company's real infrastructure.
 
-## What we're building
+**Attila Turi**, one of John and Elizabeth's children, now runs the operating business.
 
-- **A Turi's-owned operating space** for durable company knowledge, decisions, procedures and system maps.
-- **A governed shop node** that supports evidence, retrieval, recovery and bounded automation.
-- **Evidence-first field capture** for machines, workstations, racks, materials and technical relationships.
-- **Human-confirmed job memory** connecting intake, drawings, photographs, prior work and shop context.
-- **Observation before automation** around legacy equipment and machine-adjacent systems.
-- **Receipts and recovery paths** so important changes can be inspected, explained and rebuilt.
+One of the jobs of this space is to preserve the history behind the machines and drawings: photographs, stories, old jobs, equipment changes, lessons, mistakes, strange customer requests, family memories and the reasons things are done the way they are.
 
-The governing rule is simple:
+We want John and Elizabeth's own words preserved as source material, not reduced to a paragraph written by somebody else.
+
+## What Ian and Stanley are doing
+
+**Ian Nielsen + Stanley** are the current field-steward pair.
+
+Ian knows the physical environment, the people and much of the lived shop context. Stanley is Ian's AI companion and helps turn that knowledge into durable evidence, records, maps and repeatable technical work.
+
+The goal is not to have AI 'run the shop.'
+
+The goal is to make the shop increasingly able to answer ordinary questions such as:
+
+- What is this machine and what depends on it?
+- Where is the drawing for that old job?
+- Have we built something like this before?
+- What changed today?
+- What is waiting for Attila's decision?
+- What should not be disturbed?
+- If Ian is not standing here, can another steward still understand the situation?
+
+Business and production authority remain with people.
+
+## Where we are going
+
+### By the end of October 2026
+
+Attila should have **real live capability in his hands that makes the shop noticeably better** — not a demo for QuietWire.
+
+That means useful owner-facing awareness, a legible first-pass shop/system map, at least one live institutional-memory workflow, and enough evidence that the next improvement starts from what is known rather than from archaeology.
+
+### By the end of 2026
+
+Ian's transition out of routine day-to-day Turi's work should be complete enough that the system, records and remaining stewards do not depend on him as the only human memory cache.
+
+Turi's should be coherent from owner intent down through organizational knowledge, computers, machines, evidence and recovery paths.
+
+The result should also become a QuietWire use case showing how a real small manufacturing business can gain AI and digital capability **around the people and equipment it already has**, rather than replacing the business with a new software project.
+
+## Working rule
 
 > **Capture working shop knowledge before trying to improve it.**
-
-## Stewardship
-
-**Ian Nielsen + Stanley** are the current field-steward pair helping make the technical estate and lived shop knowledge durable.
-
-Ian brings human, physical and operational context from the real environment. Stanley, Ian's AI companion, helps classify evidence, preserve context, compare state, document work and make repeatable technical operations easier to recover.
-
-That support does not replace business authority or production judgment. Consequential shop decisions remain human decisions.
 
 ## Repositories
 
 ### `turis-company`
-Private canonical operating home for company knowledge, systems, projects, decisions and provenance.
+Private company operating space: history, people, systems, projects, decisions and provenance.
 
 ### `qwos-turis`
-Current node/runtime work is still maintained in its existing QuietWire source repository while we prepare a deliberate, history-preserving transition into this organization.
+The current live node/runtime source still resides in its existing QuietWire repository while a deliberate history-preserving transition is prepared.
 
-More repositories will appear when real operating boundaries justify them. We are not creating empty boxes merely to make the organization look busy.
+More repositories will appear when real boundaries justify them.
 
-## Shop capabilities
+## Public business
+
+**Turi's Welding & Fabricating Ltd.** — family-owned custom welding and fabrication in Burlington, Ontario.
 
 `Laser cutting` · `Plasma cutting` · `Rolling` · `Shearing` · `Bending` · `Welding` · `Custom fabrication`
 
-## Public business information
-
-**Turi's Welding & Fabricating Ltd.**  
-1233 Northside Rd #3  
-Burlington, Ontario L7M 1H7  
-Canada
-
-**Phone:** 905-335-4675  
-**Email:** info@turiswelding.com  
-**Website:** https://www.turiswelding.com/
+1233 Northside Rd #3 · Burlington, Ontario L7M 1H7  
+905-335-4675 · info@turiswelding.com · https://www.turiswelding.com/
 
 ---
 
-**Real shop. Durable knowledge. Better tools around the people doing the work.**
+**Real shop. Family knowledge. Durable memory. Better tools around the people doing the work.**
