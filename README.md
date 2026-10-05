@@ -1,5 +1,7 @@
 # Turi's GitHub organization profile
 
-The organization homepage is maintained in `profile/README.md`.
+The public organization homepage is maintained in `profile/README.md`.
 
-This repository is intentionally staged private until the public profile is explicitly approved for publication.
+This repository is public so GitHub can render that profile on the `Turis-Welding-and-Fabrication` organization overview.
+
+Organization-wide contribution and security defaults also live here.
